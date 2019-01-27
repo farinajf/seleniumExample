@@ -1,0 +1,14 @@
+<suite name="Ejemplo 1">
+    <test name="Test 1">
+        <classes>
+            <class name="com.google.tests.GoogleHomePageTest"/>
+        </classes>
+    </test>
+    <!--
+    <test name="Test 2">
+        <classes>
+            <class name="com.google.tests.AmazonHomePageTest"/>
+        </classes>
+    </test>
+    -->
+</suite>
